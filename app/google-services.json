@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "259371671233",
+    "firebase_url": "https://icfaitree.firebaseio.com",
+    "project_id": "icfaitree",
+    "storage_bucket": "icfaitree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259371671233:android:796dc400d06f3f71",
+        "android_client_info": {
+          "package_name": "com.madblank.icfaitree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259371671233-2an4i73lp8er6c1rm23hq6jsvon2j9i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madblank.icfaitree",
+            "certificate_hash": "6d94f279fc9029055a870e71ef91fad94e5846c1"
+          }
+        },
+        {
+          "client_id": "259371671233-88a19qmdm5e86flgr2c7r410c2o1hng0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_hJT-PNUVeEznM_t6fhK9c-1DyKbu0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259371671233-88a19qmdm5e86flgr2c7r410c2o1hng0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
